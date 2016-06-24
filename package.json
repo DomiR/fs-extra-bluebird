@@ -1,0 +1,17 @@
+{
+  "name": "fs-extra-bluebird",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "domi.github@gmail.com",
+  "license": "MIT",
+  "description": "fs-extra with some bluebird magic.",
+  "keywords": ["fs-extra", "promise", "bluebird"],
+  "repository": "DomiR/fs-extra-bluebird",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "fs-extra": "^0.30.0"
+  }
+}
